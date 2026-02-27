@@ -14,18 +14,15 @@ MKE-B01 ESP32-S3 DK IO Shield giúp người dùng dễ dàng đấu nối mà k
 
 - Tương thích: [MKE-K01 ESP32-S3 Dev Kit](https://github.com/makereduvn/MKE-K01-ESP32-S3-DEV-KIT)
 - Chuẩn chân kết nối: rào đực 2.54 mm (0.1″ male header)
-- Đưa ra đầy đủ các chân GPIO của mạch MKE-K01 ESP32-S3 Dev Kit kèm theo cặp nguồn cấp 5V - GND giúp cấp nguồn trực tiếp cho cảm biến và module ngoại vi
-- Tích hợp nhiều cổng giao tiếp I2C
-  - GND: Đen
-  - 5V: Đỏ
-  - SDA: Vàng
-  - SCL: Xanh lá
+- Đưa ra đầy đủ các chân GPIO của mạch MKE-K01 ESP32-S3 Dev Kit kèm theo cặp nguồn cấp 5V - GND giúp cấp nguồn trực tiếp cho cảm biến và module ngoại vi.
+- Tích hợp nhiều cổng giao tiếp I2C.
+- Bố trí màu sắc rõ ràng các chân tín hiệu và nguồn kết nối, tránh chập chạm kết nối nhầm.
 - Nguồn tích hợp: DC-DC Buck (nguồn xung giảm áp) hiệu suất cao, tỏa nhiệt thấp, tiết kiệm năng lượng.
 - Điện áp đầu vào: 7~24VDC qua Jack DC tròn hoặc chân VIN
 - Điện áp đầu ra:
   - 5VDC – tối đa 1500mA
   - 3.3VDC – tối đa 700mA
-- Tích hợp nhiều cổng cấp nguồn VIN - 3V3 - 5V - GND
+- Tích hợp nhiều cổng cấp nguồn: VIN - 3V3 - 5V - GND
 
 ## Kích thước
 ![MKE-B01 ESP32-S3 DK_IO_Shied](/extras/MKE-B01_0.png)
@@ -38,6 +35,7 @@ MKE-B01 ESP32-S3 DK IO Shield giúp người dùng dễ dàng đấu nối mà k
  ## Hình ảnh sản phẩm
 ![MKE-B01 ESP32-S3 DK_IO_Shied](/extras/MKE-B01_1.png)
 ![MKE-B01 ESP32-S3 DK_IO_Shied](/extras/MKE-B01_2.png)
+
 
 
 
